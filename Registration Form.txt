@@ -1,0 +1,4 @@
+1.Connect your mysql connector with respective IDE ex. Eclipse or Netbeans.
+2.Create databse "reg" in your databse.
+3.Create table as mention in your code using create query.
+4 Now run your code .
